@@ -2,4 +2,4 @@
 
 A simple Flutter project that generates english word pairs.
 
-![screenshot](WordPairGenerator.png "screenshot")
+<img src="WordPairGenerator.png" alt="WordPairGenerator" width="200"/>
